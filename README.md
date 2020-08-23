@@ -1,6 +1,6 @@
 # Dribble_Concept
 
-A new Flutter project.
+A flutter app which teaches the basics of flutter using a driible ui for an online shopping app.
 
 ## Getting Started
 
